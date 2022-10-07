@@ -1,0 +1,29 @@
+.loginForm{
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+#contain{
+    margin: 0 auto;
+    margin-top: 10%;
+    width: 400px;
+}
+
+#button{
+    margin: 0 auto;
+    margin-bottom: 20px;
+    width: 60%;
+}
+
+#toSignUp{
+    margin-left: 35%;
+    font-size: large;
+    margin-bottom: 20px;
+}
+
+#alert{
+    margin-top: 20px;
+}

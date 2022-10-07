@@ -1,0 +1,10 @@
+#deleteRow{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#delete{
+    color: red;
+    cursor: pointer;
+}

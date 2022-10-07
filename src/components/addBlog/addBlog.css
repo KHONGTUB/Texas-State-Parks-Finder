@@ -1,0 +1,28 @@
+#selectPark {
+    
+    width: 300px;
+    margin: 0 auto;
+
+}
+
+#button {
+top: 4%;
+width: 30%;
+
+}
+
+#container {
+    margin: 0 auto;
+    margin-top: 5%;
+    padding-top: 10px;
+    text-align: center;
+}
+
+#username{
+    padding: 10px;
+    text-align: left;
+}
+
+#Blog{
+    overflow: auto;
+}

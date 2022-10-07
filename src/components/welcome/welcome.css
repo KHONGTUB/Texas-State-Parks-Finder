@@ -1,0 +1,38 @@
+#welcome{
+    margin: 10px;
+    align-content: center;
+    position: relative;
+    color: white;
+    width: 99vw;
+
+}
+
+
+#images{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 50px;
+    overflow: hidden;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.griditem {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+
+.photo{
+    align-items: center;
+    transition: all .5s ease-in-out;
+    width: 100%;
+    max-height: 100%;
+    
+}
+
+#images :hover{
+   transform: scale(1.1);
+}

@@ -1,0 +1,26 @@
+#Blogs{
+    padding: 10px;
+    border: solid 1px black;
+    margin-top: 19px;
+}
+
+#Blog{
+    list-style: none;
+    margin: 0 auto;
+    width: 40vw;
+  
+}
+
+#blogButton {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#createdAt{
+    font-style: italic;
+    font-size: small;
+}
+
+#parkLocation{
+    font-size: small;
+}

@@ -1,0 +1,10 @@
+#parkList {
+    border-top: solid black 1px;
+    cursor: pointer;
+}
+
+#parkList :hover{
+    text-decoration: underline;
+    opacity: 60%;
+}
+

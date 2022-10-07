@@ -1,0 +1,55 @@
+#logo{
+    margin-top: 1px;
+    max-width: 50px;
+    height: auto;
+}
+
+
+
+nav {
+    margin-top: -16px;
+    width: 100%;
+    height: 60px;
+    background: #000;
+}
+
+.list {
+    justify-content:space-between;
+    list-style-type: none;
+    background: #000;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.items {
+    margin-right: 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.menu{
+    display: flex;
+}
+
+.link{
+
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+
+#adventure{
+    border-right: 1px solid white;
+    padding-right: 20px;
+}
+
+#log{
+    border-left: 1px solid white;
+    padding-left: 20px;
+}
+
+.items :hover{
+    color: lightblue;
+    opacity: 70%;
+}
